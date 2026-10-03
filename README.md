@@ -8,3 +8,4 @@ Otimização e Desempenho: Inclui a versão Lite (baseada em Xfce) para hardware
 Ecosistema de Aplicações: Vem pré-carregado com essencial como LibreOffice, Firefox (ou Brave), GIMP e VLC, além de acesso fácil ao Ubuntu Software Center e suporte a Flatpak/Snap.
 Público-Alvo
 O UbunX é ideal para iniciantes em Linux, usuários corporativos que precisam de estabilidade e compatibilidade, e entusiastas que desejam substituir o Windows sem perder a familiaridade com a interface gráfica e as ferramentas do dia a dia.
+LINK DOWNLOAD: https://ubunxofc.my.canva.site/
